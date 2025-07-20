@@ -31,4 +31,4 @@ Turning the Script On (Step-by-Step)
     •    The Scroll Lock key is working on your keyboard (some 60% keyboards don’t have it).
     •     If you don’t have Scroll Lock, I can change the toggle key to something else — like a mouse button or F1–F12.
 
-Would you like me to change the toggle key to a mouse button (like Mouse Button 4 or 5)
+Note you can change the toggle key to a mouse button (like Mouse Button 4 or 5)
